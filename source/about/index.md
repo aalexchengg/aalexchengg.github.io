@@ -1,6 +1,7 @@
 ---
 title: about
 date: 2026-07-30 17:50:33
+categories:
 ---
 Hello!
 I'm currently a swe at ByteDance on the recommendation ml infra team.  A lot of my current work involves ml systems optimization, including custom Triton/CUDA kernels, `torch.compile`, FSDP, and other fun stuff.  Previously, I was at Carnegie Mellon for my masters (MSML) and bachelors (stat + ml).
