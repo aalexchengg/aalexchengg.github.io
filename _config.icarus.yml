@@ -253,6 +253,9 @@ widgets:
             LinkedIn:
                 icon: fab fa-linkedin
                 url: https://linkedin.com/in/abcheng
+            Mail:
+                icon: fa-solid fa-envelope
+                url: mailto:cheng.alex2002@gmail.com
             # Twitter:
             #     icon: fab fa-twitter
             #     url: https://twitter.com

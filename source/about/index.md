@@ -13,6 +13,6 @@ This blog is mainly for me to:
 - provide some technical how tos/tutorials on work I've done that may be useful to some person on the Internet
 - a secret third thing that I haven't figured out yet
 
-I've only just started this blog so we will see what direction it will take; perhaps it eventually becomes a [xkcd](https://xkcd.com/378/) copycat. Feel free to email me at `alex [dot] cheng [at] bytedance [dot] com` if you have any thoughts that must escape your head and into my inbox.
+I've only just started this blog so we will see what direction it will take; perhaps it eventually becomes a [xkcd](https://xkcd.com/378/) copycat. Feel free to email me using the mail icon on the widget to your left. if you have any thoughts that must escape your head and into my inbox.
 
 
